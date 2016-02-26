@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaoratoriapan00schouoft/operaoratoriapan00schouoft_0383.png"; bbox 0 0 2503 3444; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 74 739 1899 1324">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 74 739 1899 1324">
+     <span class='ocr_line' id='line_1_1' title="bbox 74 739 1899 901; baseline -0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 74 739 1899 901; x_wconf 42' lang='lat' dir='ltr'>C)Rs&amp;]f}[)NJES</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 244 1001 1720 1116; baseline 0.001 -4"><span class='ocrx_word' id='word_1_2' title='bbox 244 1001 1720 1116; x_wconf 74' lang='lat' dir='ltr'><strong>PROGRAMMATA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 135 1207 1824 1324; baseline 0.003 -5"><span class='ocrx_word' id='word_1_3' title='bbox 135 1207 1824 1324; x_wconf 65' lang='lat' dir='ltr'>INSCRIPTIONES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 297 1555 1654 1619">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 297 1555 1654 1619">
+     <span class='ocr_line' id='line_1_4' title="bbox 297 1555 1654 1619; baseline -0.004 0"><span class='ocrx_word' id='word_1_4' title='bbox 297 1561 650 1619; x_wconf 83' lang='lat' dir='ltr'><strong>HABVIT.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 691 1558 1111 1618; x_wconf 85' lang='lat' dir='ltr'>SCRIPSIT.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1156 1555 1654 1616; x_wconf 80' lang='lat' dir='ltr'><strong>DEDICAVIT&#39;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 820 1711 1257 1755">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 820 1711 1257 1755">
+     <span class='ocr_line' id='line_1_5' title="bbox 820 1711 1257 1755; baseline 0.002 -4"><span class='ocrx_word' id='word_1_7' title='bbox 820 1714 858 1751; x_wconf 77' lang='lat' dir='ltr'><strong>M</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 904 1712 1001 1753; x_wconf 90' lang='lat' dir='ltr'>ET.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1032 1711 1257 1755; x_wconf 80' lang='lat' dir='ltr'>NVPER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 78 1839 1752 1919">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 78 1839 1752 1919">
+     <span class='ocr_line' id='line_1_6' title="bbox 78 1839 1752 1919; baseline 0 -7"><span class='ocrx_word' id='word_1_10' title='bbox 78 1898 82 1901; x_wconf 22' lang='lat' dir='ltr'>v</span> <span class='ocrx_word' id='word_1_11' title='bbox 207 1842 335 1919; x_wconf 87' lang='lat'>10.</span> <span class='ocrx_word' id='word_1_12' title='bbox 421 1839 851 1912; x_wconf 85' lang='lat' dir='ltr'><strong>DANIEL.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 933 1839 1752 1914; x_wconf 89' lang='lat' dir='ltr'>SCHOEPFLINVS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 367 2016 1578 2052">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 367 2016 1578 2052">
+     <span class='ocr_line' id='line_1_7' title="bbox 367 2016 1578 2052; baseline 0.001 -1"><span class='ocrx_word' id='word_1_14' title='bbox 367 2016 591 2052; x_wconf 77' lang='lat' dir='ltr'>REGIVS.</span> <span class='ocrx_word' id='word_1_15' title='bbox 628 2016 951 2051; x_wconf 75' lang='lat' dir='ltr'>FRANCIAE.</span> <span class='ocrx_word' id='word_1_16' title='bbox 988 2017 1578 2052; x_wconf 62' lang='lat' dir='ltr'>HHHHHHHHHHHHHHHH</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
